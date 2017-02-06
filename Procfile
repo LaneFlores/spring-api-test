@@ -1,1 +1,1 @@
-web node hello-world/index.js
+web node src/index.js
