@@ -4,7 +4,7 @@
   "description": "Hello World for React.",
   "main": "index.js",
   "scripts": {
-    "start": "node hello-world/src/app.js",
+    "start": "react-scripts hello-world/start",
     "test": "huh"
   },
   "author": "",
