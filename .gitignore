@@ -1,12 +1,18 @@
-### https://raw.github.com/github/gitignore/14b7566ce157ce95b07006466bacee160f242284/maven.gitignore
+# dependencies
+node_modules
 
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
+# testing
+coverage
 
+# production
+build
+
+# misc
+.DS_Store
+.env
+npm-debug.log
 
 .idea
 *.iml
+build/
+node_modules/
