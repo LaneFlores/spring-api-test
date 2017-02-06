@@ -1,0 +1,14 @@
+{
+  "name": "spring-api-test",
+  "version": "1.0.0",
+  "description": "Hello World for React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "huh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
